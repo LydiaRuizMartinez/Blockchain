@@ -1,4 +1,4 @@
-# Proyecto Final de Fundamentos de los Sistemas Operativos- Blockchain
+# Proyecto de Fundamentos de los Sistemas Operativos- Blockchain
 
 ### Descripción
 Este proyecto se centra en el desarrollo de una aplicación Blockchain, donde múltiples nodos colaboran para agrupar transacciones en bloques y mantener una sincronización descentralizada. La implementación se ha realizado de manera incremental, comenzando con el desarrollo del back-end (lógica interna de la app).
